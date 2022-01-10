@@ -60,7 +60,7 @@ Empty lines between everything in <angle breackets> is intentional due to markdo
 
 ***
   
-The Brunch Configuration menu is a new feature avaliable in Brunch 93 and higher, this menu will allow users to set and controll options easily without needing to manually edit files themselves. The Brunch Configuration Menu can be accessed directly from Grub using the "ChromeOS (settings)" boot option or while logged into ChromeOS using the `sudo edit-brunch-config` command in the crosh shell.
+The Brunch Configuration menu is a new feature avaliable in Brunch 93 and higher, this menu will allow users to set and control options easily without needing to manually edit files themselves. The Brunch Configuration Menu can be accessed directly from Grub using the "ChromeOS (settings)" boot option or while logged into ChromeOS using the `sudo edit-brunch-config` command in the crosh shell.
   * To access the crosh shell, press **Ctrl + Alt + T** and type `shell` at the invite.
 
   
